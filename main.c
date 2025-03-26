@@ -20,6 +20,7 @@
          "There are only 10 types of people in the world: Those who understand binary and those who don't."
      };
 
+
      srand(time(NULL));
      print_random_quote(quotes);
      return 0;
